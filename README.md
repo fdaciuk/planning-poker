@@ -1,2 +1,2 @@
-# planning-poker
-Planning Poker Real Time
+# Planning Poker
+> Planning Poker Real Time
